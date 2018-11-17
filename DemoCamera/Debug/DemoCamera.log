@@ -1,0 +1,11 @@
+﻿  Camera.cpp
+d:\local github\demo\democamera\camera.cpp(10): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+d:\local github\demo\democamera\camera.cpp(27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\local github\demo\democamera\camera.cpp(28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Game.cpp
+  GameSprite.cpp
+  GameTime.cpp
+  GraphicsDevice.cpp
+  Main.cpp
+  Generating Code...
+  DemoCamera.vcxproj -> D:\Local GitHub\Demo\Debug\DemoCamera.exe
